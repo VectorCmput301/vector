@@ -5,5 +5,5 @@ abstract class Shape {
     var y:Int = 0
     var z:Int=  0
     val color: String = "pink"
-    val color: String = "red"
+    val color: String = "violet"
 }
