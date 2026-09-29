@@ -7,3 +7,4 @@
 3. Name: Marissa Jackson  CCID: mpjackso
 4. Name: Khadijah Abubakari Mejida CCID: mejidaab
 5. Name: Parneet Kaur CCID: parneet5
+6. Name: Samarth Sathya Karthik CCID: sathyaka
