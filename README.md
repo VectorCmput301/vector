@@ -8,3 +8,4 @@
 4. Name: Khadijah Abubakari Mejida CCID: mejidaab
 5. Name: Parneet Kaur CCID: parneet5
 6. Name: Samarth Sathya Karthik CCID: sathyaka
+7. Name: Mirah Sayed CCID: mirah
